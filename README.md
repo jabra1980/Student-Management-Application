@@ -1,4 +1,4 @@
-# Student_Management_Application
+# Student Management Application
 
 Create an application that keeps track of students, the structure Student is defined by:
 

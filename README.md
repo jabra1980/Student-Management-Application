@@ -1,21 +1,20 @@
 # Student_Management_Application
 
-Create an application that keeps track of students, the structure Student is defined by: an ID, a first name, a last name, an address, an email and a phone number where first and last name are defined as a structure Person
+Create an application that keeps track of students, the structure Student is defined by:
 
-1- Fist name : as a string
+1- ID
 
-2- Last name : as a string
+2- first name
 
-and the address as a structure Address with the following properties:
+3- last name
 
-1- Number and street name : 30 chars
+4- address
 
-2- City name : 20 chars
+5- email
 
-3- Postal code : 7 chars
+6- phone number
 
-4- Province/State : 15 chars
-
+where first and last name are defined as a structure Person and the address as a structure Address.
 Display the student management menu that returns the chosen option by the user. 
 
 *** Student Management Application ***
